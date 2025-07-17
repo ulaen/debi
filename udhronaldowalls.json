@@ -42,8 +42,8 @@
 	  
       "one_signal_api_key": "",
 
-      "on_off_category": "2",
-      "on_off_moreapp": "2",
+      "on_off_category": "0",
+      "on_off_moreapp": "0",
       "on_off_random": "1",
       "link_privacy": "file:///android_asset/privacy_policy.html",
 
